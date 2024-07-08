@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.tit{
+    background-color: black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10vh;
+    color: white;
+    letter-spacing: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
